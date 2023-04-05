@@ -12,4 +12,4 @@ This project is a Weather Dashboard using openweatermap to display a 5 days fore
 ![screenshot of index.html](./assets/images/cattura.PNG)
 
 ### Link of deployed application
-[Link to the deployed website]()
+[Link to the deployed website](https://purplelume.github.io/WeatherDashboard/)
