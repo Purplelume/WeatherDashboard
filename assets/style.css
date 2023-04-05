@@ -1,0 +1,110 @@
+/* Class and general styling */
+h2 {
+    margin: 0;
+}
+
+input {
+    padding: 5px 86.5px;
+    text-align: center;
+}
+
+button {
+    padding: 5px 150px;
+    background-color: white;
+    
+}
+
+button:hover{
+    background-color: grey;
+}
+
+header {
+    color: white;
+    size: 100px;
+    text-align: center;
+    font-family: monospace;
+    text-shadow: rgb(212, 209, 209) 1px 0 10px;
+    background: linear-gradient(110deg, orange 50%, rgb(204, 154, 16) 50%);
+    margin-bottom: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+}
+
+body {
+    margin: 0;
+    background-color: #964B00;
+}
+
+aside {
+    margin-right: 20px;
+    color: white;
+    padding: 20px;
+    clear: both;
+    float: left;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: orange;
+}
+
+.city {
+    display: inline-block;
+    width: 75%;
+    border: inset orange 5px;
+    font-family: cursive;
+
+}
+
+.texts {
+    text-align: center;
+    color: white;
+}
+
+.weatherCards {
+    float: right;
+    display:inline-table;
+    margin-right: 27px;
+    width: 75%;
+    background-color: #964B00;
+    border: inset orange 5px;
+    font-family: cursive;
+
+}
+
+.cards{
+    color: whitesmoke;
+    margin-top: 0px;
+    text-align: center;
+    font-family: cursive;
+    justify-content: space-between;
+    border: 8px solid;
+    border-image: linear-gradient(to bottom, orange, #F4C430) 0 1;
+    margin-left: 10px;
+    width:18%;
+    float: left;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+
+/* ID styling */
+#up {
+    border-bottom: 3px solid whitesmoke;
+}
+
+#cityName {
+    margin: 0;
+    padding-bottom: 10px;
+    font-size: 35px;
+    background: linear-gradient(110deg, orange 50%, rgb(204, 154, 16) 50%);
+
+}
+
+#daysDisplay{
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border: 8px solid;
+    border-image: linear-gradient(to left, #F4C430, orange) 1 0;
+}
