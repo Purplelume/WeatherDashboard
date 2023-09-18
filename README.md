@@ -1,15 +1,25 @@
-# WeatherDashboard
+# Weather Dashboard
 
 ## Description
 
-This project is a Weather Dashboard using openweatermap to display a 5 days forecast for the city you choose.
+The Weather Dashboard project is a user-friendly web application that utilizes OpenWeatherMap to provide a 5-day weather forecast for the city of your choice.
 
-### Actions done
-* Builded HTML, CSS and JS using Jquery
-* Fetched the api to get the informations and weather icons
-* Creating interactive buttons to display the previous cities
+### Key Features
 
-![screenshot of index.html](./assets/images/cattura.PNG)
+Here are the key features and actions implemented in this project:
 
-### Link of deployed application
-[Link to the deployed website](https://purplelume.github.io/WeatherDashboard/)
+1. **HTML, CSS, and jQuery**: The project is built using HTML, CSS, and JavaScript with the jQuery library, ensuring a responsive and interactive user experience.
+
+2. **API Integration**: The application fetches weather data and weather icons from OpenWeatherMap's API to provide up-to-date weather information.
+
+3. **City Selection**: Interactive buttons allow users to easily select and view the weather forecasts for their previous cities.
+
+![Screenshot of Weather Dashboard](./assets/images/cattura.PNG)
+
+### Explore the Weather Dashboard
+
+To check the weather forecast for your chosen city, visit the deployed website:
+
+[**Weather Dashboard Website**](https://purplelume.github.io/WeatherDashboard/)
+
+Feel free to explore and stay informed about the weather in your favorite locations!
